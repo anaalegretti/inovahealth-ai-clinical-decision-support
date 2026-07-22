@@ -43,9 +43,26 @@ https://inovasaude.ia.br
 - Azure Static Web Apps
 - Azure DevOps
 
-## Built with OpenAI Codex
 
-OpenAI Codex supported the project from concept to implementation, including product architecture, coding, debugging, responsive interface development, scientific workflows, documentation, and continuous refinement.
+## How We Used Codex and GPT-5.6
+
+InovaHealth was developed from concept to implementation using OpenAI Codex with GPT-5.6 as the primary engineering and reasoning environment.
+
+Codex and GPT-5.6 helped us:
+
+- Translate real clinical workflows into product requirements and software architecture
+- Build the responsive interface with Astro, TypeScript, JavaScript, and Tailwind CSS
+- Structure longitudinal patient records and clinical reasoning workflows
+- Develop reusable components for laboratory interpretation, guideline mapping, and personalized follow up
+- Debug the application and continuously refine usability and visual quality
+- Organize scientific references and connect clinical criteria with international guidelines
+- Identify uncertainty, missing information, and safety boundaries in clinical outputs
+- Create synthetic patient scenarios for privacy safe demonstrations
+- Produce technical documentation, project media, and the hackathon demo
+
+GPT-5.6 enabled medicine, software engineering, scientific evidence, and product design to be developed within the same workflow.
+
+Every clinical output remains subject to professional review. Codex and GPT-5.6 support clinical reasoning but do not replace medical judgment.
 
 ## Clinical Safety
 
