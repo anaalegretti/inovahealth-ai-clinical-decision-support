@@ -29,7 +29,7 @@ The platform supports clinicians without replacing professional judgment.
 
 Visit the public experience:
 
-https://inovasaude.ia.br
+https://inovasaude.ia.br/en/
 
 ## Built With
 
